@@ -12,6 +12,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elementor Beta (Developer Edition)](https://wordpress.org/plugins/elementor-beta/) - Elementor Developer Edition gives you direct access into Elementor's development process, and lets you take an active part in perfecting our product. Each Developer Edition release will contain experimental functionalities that developers will be able to use to get familiar with the next releases before they are published.
 
 ## Third-Party Add-Ons
+* [The Plus Addons for Elementor](https://theplusaddons.com/) - 120+ Elementor Widgets with Blog Builder, WooCommerce Builder, Mega Menu, Popup & More. Also Comes with [FREE Version](https://wordpress.org/plugins/the-plus-addons-for-elementor-page-builder/)
 * [Elementor Addon Elements](https://wordpress.org/plugins/addon-elements-for-elementor-page-builder/) - Add new elements to Elementor page builder.
 * [Page Templater For Elementor](https://wordpress.org/plugins/elementor-templater/) - A helper plugin for users of Elementor Page Builder.
 * [SJ Elementor Addon](https://wordpress.org/plugins/sj-elementor-addon/) - SJ Elementor Addon is Elementor Page Builder's Addon Pack. Quickly add SVG, Image separator to your row. Just Drag, Drop and Enjoy.
